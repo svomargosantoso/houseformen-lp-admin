@@ -1,0 +1,27 @@
+{
+  "dependencies": {
+    "next": "^16.0.0",
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0",
+    "clsx": "^2.1.1",
+    "tailwind-merge": "^3.0.0"
+  },
+  "description": "Rebuild LP + Admin Wellouse (EROJAN & Coffiy) — skeleton Fase 1. Fondasi: Velora UI (LP) + Studio Admin (admin), Next.js 16 + Tailwind v4 + shadcn/ui.",
+  "devDependencies": {
+    "@types/node": "^22.0.0",
+    "@types/react": "^19.0.0",
+    "@types/react-dom": "^19.0.0",
+    "tailwindcss": "^4.0.0",
+    "typescript": "^5.0.0",
+    "@tailwindcss/postcss": "^4.0.0"
+  },
+  "name": "wellouse-lp-admin-rebuild",
+  "private": true,
+  "scripts": {
+    "build": "next build",
+    "dev": "next dev",
+    "lint": "next lint",
+    "start": "next start"
+  },
+  "version": "0.1.0"
+}
